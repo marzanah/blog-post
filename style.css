@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif,serif
+    font-size: 18px;
+    font-family: sans-serif,serif;
+    
+}
+
+
+h1,h2{
+    color:rgb(255, 108, 0);
+    
+    
+}
+
+h1{
+    font-size: 45px;
+}
+
+h2{
+    font-size: 25px;
+}
+p {
+    
+    text-align: justify;
+  
+}
+
+.main-text{
+    text-align: justify;
+    
+}
+ 
+#author-text{
+    font-size: 900px
+}
